@@ -1,0 +1,5 @@
+doit.log
+__pycache__/
+
+.vs/
+.vscode/
